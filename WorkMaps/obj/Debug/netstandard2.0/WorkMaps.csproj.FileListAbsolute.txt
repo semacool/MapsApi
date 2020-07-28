@@ -1,0 +1,9 @@
+D:\Programming\VsStudioSaves\GeoApi\WorkMaps\bin\Debug\netstandard2.0\WorkMaps.deps.json
+D:\Programming\VsStudioSaves\GeoApi\WorkMaps\bin\Debug\netstandard2.0\WorkMaps.dll
+D:\Programming\VsStudioSaves\GeoApi\WorkMaps\bin\Debug\netstandard2.0\WorkMaps.pdb
+D:\Programming\VsStudioSaves\GeoApi\WorkMaps\obj\Debug\netstandard2.0\WorkMaps.csprojAssemblyReference.cache
+D:\Programming\VsStudioSaves\GeoApi\WorkMaps\obj\Debug\netstandard2.0\WorkMaps.AssemblyInfoInputs.cache
+D:\Programming\VsStudioSaves\GeoApi\WorkMaps\obj\Debug\netstandard2.0\WorkMaps.AssemblyInfo.cs
+D:\Programming\VsStudioSaves\GeoApi\WorkMaps\obj\Debug\netstandard2.0\WorkMaps.csproj.CoreCompileInputs.cache
+D:\Programming\VsStudioSaves\GeoApi\WorkMaps\obj\Debug\netstandard2.0\WorkMaps.dll
+D:\Programming\VsStudioSaves\GeoApi\WorkMaps\obj\Debug\netstandard2.0\WorkMaps.pdb

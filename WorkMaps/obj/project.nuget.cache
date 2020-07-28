@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "loIKFLwC1U726oJGj/3B9E7RuWpGFHBoHpNuR9ORSjM/tUt1AqSO5nTjo2km1eFPqrBN/GZwGGygd66h+r4JHA==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\VsStudioSaves\\GeoApi\\WorkMaps\\WorkMaps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semac\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\semac\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

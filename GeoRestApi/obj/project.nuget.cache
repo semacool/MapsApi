@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0GFuVhOYOPwEwHabtdkVbpAuWVRD4KHtVn5bbeAq3ZoOG+9WPoEvx7zPUxA1dVi0w9UOn5ZKk9pOShExSJBJzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\VsStudioSaves\\GeoApi\\GeoRestApi\\GeoRestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semac\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

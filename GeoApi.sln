@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkMaps", "WorkMaps\WorkMaps.csproj", "{7E80AD01-8BEB-4E43-BB14-E9F680E24D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoRestApi", "GeoRestApi\GeoRestApi.csproj", "{874E7EC8-2FE5-4BF4-9706-FBBEDCB76D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E80AD01-8BEB-4E43-BB14-E9F680E24D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E80AD01-8BEB-4E43-BB14-E9F680E24D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E80AD01-8BEB-4E43-BB14-E9F680E24D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E80AD01-8BEB-4E43-BB14-E9F680E24D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874E7EC8-2FE5-4BF4-9706-FBBEDCB76D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874E7EC8-2FE5-4BF4-9706-FBBEDCB76D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874E7EC8-2FE5-4BF4-9706-FBBEDCB76D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874E7EC8-2FE5-4BF4-9706-FBBEDCB76D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA8D1FF-D0CA-4C57-9BB8-3C52C753C968}
+	EndGlobalSection
+EndGlobal
